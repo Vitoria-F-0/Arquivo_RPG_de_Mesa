@@ -8,6 +8,15 @@ na direita,dois botões que levam ao resumo sobre os rpgs abordados e outro que 
 #E a última section que terá blocos de texto sobre os rpgs que cada personagem esteve
 #No footer ficará os direitos autorais  
 
+#Página individual
+#precisa de um header para que seja possível voltar
+botão no canto direito
+#main page
+canto esquerdo terá foto de corpo inteiro do personagem e informações básicas: idade, trabalho, altura, relacionamentos
+o resto da pagina terá um breve resumo da personagem e uma curiosidades
+#estilização que combine com a personagem
+
+
 #Possiveis adições:
 -página individual de cada um dos personagens
 -Mobile Firt e responsividade
