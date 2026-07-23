@@ -14,6 +14,6 @@ Esse é o meu primeiro projeto independente e criado por mim, praticando conceit
 
 # Status
 - Em desenvolvimento
-- Etapa atual: criar mais duas páginas de personagens.
+- Etapa atual: melhorar o código/ adicionar novas funções
 - Expectativas: melhorar layout, código e funções conforme aprendo.
 - Melhoria da organização das informações dos personagens.
