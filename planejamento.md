@@ -19,7 +19,6 @@ idade, trabalho, altura, relacionamentos
 
 
 # Adições:
-- página individual de cada um dos personagens
 - melhoria do posicionamento das informações dos personagens
 - Mobile Firt e responsividade
 - funções dinâmincas com JavaScript
